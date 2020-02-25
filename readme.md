@@ -9,6 +9,13 @@ Footman Square Tower Defense alias Footman S-TD est un projet créé le 25 févr
 
 Un bâtiment exclusif, le centre de recherche, permet un gameplay plus avancé accès sur l'or et l'évolution des tourelles. Il s'y trouve beaucoup de recherches permettant de peaufiner un gameplay en particulier. Chaque décision va alors avoir un impact définitif.
 
+Un générateur de créatures est fixé pour chaque joueur à chaque angle droit de la carte. Celui-ci génère des créatures allant aux 3 opposés pouvant être améliorées.
+
+[Changelog alpha distribution version 0.0.3](https://github.com/IazLur/footman-td/blob/v0.0.3/Footman%20Square%20TD%20-%20Official%200.0.3.w3m)
+
+> Ajout majeur : Générateur de créatures avec 3 créatures différentes.\
+> Gameplay : Portée de vue de toutes les tourelles accrue.
+
 [Changelog alpha distribution version 0.0.2](https://github.com/IazLur/footman-td/blob/v0.0.2/Footman%20Square%20TD%20-%20Official%200.0.2.w3m)
 
 > Ajout : Message de pub pour la page github.\
@@ -17,6 +24,6 @@ Un bâtiment exclusif, le centre de recherche, permet un gameplay plus avancé a
 > Ajout : Cible en acier a 3 niveux supplémentaires.\
 > Fix : La recherche d'investissement ne fonctionne pas.\
 > Fix : La cible en acier niveau 2 ne doit pas apparaître sans la complétion du niveau 1.\
-> Balancement : L'ingénieur a une portée trop grande et ne doit pas pouvoir tuer un footman.\
-> Balancement : La tourelle simple fait plus de dégâts.\
-> Balancement : La portée conférée par cible en acier est réduite.\
+> Gameplay : L'ingénieur a une portée trop grande et ne doit pas pouvoir tuer un footman.\
+> Gameplay : La tourelle simple fait plus de dégâts.\
+> Gameplay : La portée conférée par cible en acier est réduite.
