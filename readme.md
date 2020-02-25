@@ -11,6 +11,13 @@ Un bâtiment exclusif, le centre de recherche, permet un gameplay plus avancé a
 
 Un générateur de créatures est fixé pour chaque joueur à chaque angle droit de la carte. Celui-ci génère des créatures allant aux 3 opposés pouvant être améliorées.
 
+[Changelog alpha distribution version 0.0.4](https://github.com/IazLur/footman-td/blob/v0.0.4/Footman%20Square%20TD%20-%20Official%200.0.4.w3m)
+
+> Ajout : 2 nouvelles créatures.\
+> Ajout : 3 nouvelles tourelles.\
+> Ajout : Recherche investissement niveau 2.\
+> Gameplay : Le footman se déplace plus vite.
+
 [Changelog alpha distribution version 0.0.3](https://github.com/IazLur/footman-td/blob/v0.0.3/Footman%20Square%20TD%20-%20Official%200.0.3.w3m)
 
 > Ajout majeur : Générateur de créatures avec 3 créatures différentes.\
