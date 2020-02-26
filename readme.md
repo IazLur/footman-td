@@ -5,8 +5,37 @@
 Ce projet a été créé exclusivement par Edouard Dragon dénommé iazlur et est soumis à la propriété intellectuelle du droit français
 `
 
-Footman Square Tower Defense alias Footman S-TD est un projet créé le 25 février 2020 sur l'éditeur de scénario Warcraft 3. Il embarque 4 joueurs dans un mode chacun pour soi.
-Ce scénario a été conçu en version anglophone.
+Footman Square Tower Defense alias Footman S-TD est un projet créé le 25 février 2020 sur l'éditeur de scénario Warcraft 3. Il embarque 4 joueurs dans un mode chacun pour soi.Ce scénario a été conçu en version anglophone.
+
+[Changelog alpha distribution version 0.0.11](https://github.com/IazLur/footman-td/blob/master/Footman%20Square%20TD%20-%20Official%200.0.11.w3m)
+
+> Ajout : Engin de destruction shop central.
+> Fix : Prix du centre de recherche faussé.
+> Gameplay : Changement prix investissement.
+> Gameplay : La domination rapporte de l'or.
+
+[Changelog alpha distribution version 0.0.10](https://github.com/IazLur/footman-td/blob/master/Footman%20Square%20TD%20-%20Official%200.0.10.w3m)
+
+> Fix : Force HD map.
+> Fix : Le shop au milieu de propose rien.\
+> Fix : Message de début mouvement unités.\
+
+[Changelog alpha distribution version 0.0.9](https://github.com/IazLur/footman-td/blob/master/Footman%20Square%20TD%20-%20Official%200.0.9.w3m)
+
+> Ajout : Un shop au milieu permet d'acheter des items.\
+> Fix : Lorsque la base est détruite, le footman meurt.\
+> Gameplay majeur : Redéfinition de toutes les stats des tourelles et créatures.\
+> Gameplay : Modification de la carte.
+
+[Changelog alpha distribution version 0.0.8](https://github.com/IazLur/footman-td/blob/master/Footman%20Square%20TD%20-%20Official%200.0.8.w3m)
+
+> Ajout majeur : Chaque tourelle possède 1 amélioration.\
+> Fix : Suppression message github.
+> Gameplay : Les tourelles prennent 8x8 place.\
+> Gameplay : Le score est lié au territoire.\
+> Gameplay : Les unités ne sont plus cliquables et meurent si elles ne bougent pas.\
+> Gameplay : Modification de la carte.\
+> Gameplay : Le créatures ne vont que dans une direction à la fois.
 
 [Changelog alpha distribution version 0.0.7](https://github.com/IazLur/footman-td/blob/master/Footman%20Square%20TD%20-%20Official%200.0.7.w3m)
 
