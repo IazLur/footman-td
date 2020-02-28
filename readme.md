@@ -7,14 +7,20 @@ Ce projet a été créé exclusivement par Edouard Dragon dénommé iazlur et es
 
 Footman Square Tower Defense alias Footman S-TD est un projet créé le 25 février 2020 sur l'éditeur de scénario Warcraft 3. Il embarque 4 joueurs dans un mode chacun pour soi.Ce scénario a été conçu en version anglophone.
 
+[Changelog alpha distribution version 0.1.0](https://github.com/IazLur/footman-td/blob/master/Footman%20Square%20TD%20-%20Official%200.1.0.w3m)
+
+> Ajout : 2 nouvelles améliorations pour le destructeur 3000.\
+> Fix : UI.
+
 [Changelog alpha distribution version 0.0.22](https://github.com/IazLur/footman-td/blob/master/Footman%20Square%20TD%20-%20Official%200.0.22.w3m)
 
-> Ajout : 1 nouvelle amélioration avec 3 niveaux.
-> Fix : Map avec 3 carreaux au lieu de 2 en base à droite.
+> Ajout : 1 nouvelle amélioration avec 3 niveaux.\
+> Fix : Map avec 3 carreaux au lieu de 2 en base à droite.\
+> Fix : Balancement tourelles.
 
 [Changelog alpha distribution version 0.0.21](https://github.com/IazLur/footman-td/blob/master/Footman%20Square%20TD%20-%20Official%200.0.21.w3m)
 
-> Ajout : 1 nouvelle tourelle.
+> Ajout : 1 nouvelle tourelle.\
 > Ajout : Ajout d'une méga tourelle.\
 > Fix : Correction map.\
 > Gameplay : Balancement des tourelles.
@@ -91,7 +97,7 @@ Footman Square Tower Defense alias Footman S-TD est un projet créé le 25 févr
 
 > Fix : Force HD map.
 > Fix : Le shop au milieu de propose rien.\
-> Fix : Message de début mouvement unités.\
+> Fix : Message de début mouvement unités.
 
 [Changelog alpha distribution version 0.0.9](https://github.com/IazLur/footman-td/blob/master/Footman%20Square%20TD%20-%20Official%200.0.9.w3m)
 
