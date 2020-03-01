@@ -12,7 +12,8 @@ Footman Square Tower Defense alias Footman S-TD est un projet créé le 25 févr
 > Ajout : Banque nationale.\
 > Ajout : Maréchals des haches.\
 > Ajout : Tour d'Hadès.\
-> Fix : Mobs shop armure.
+> Fix : Mobs shop armure.\
+> Fix : Selection units.
 
 [Changelog alpha distribution version 0.1.4](https://github.com/IazLur/footman-td)
 
