@@ -1,0 +1,7 @@
+|cff808080[Basic]|r
+|cffff00ff[Improved]|r 
+|cff00ff00[Rare]|r
+|cffff8080[Epic]|r 
+|cff00ffff[Legend]|r 
+|cffffff00[Divine]|r
+|cffff0000[Hero]|r
