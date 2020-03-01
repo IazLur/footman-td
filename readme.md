@@ -7,6 +7,13 @@ Ce projet a été créé exclusivement par Edouard Dragon dénommé iazlur et es
 
 Footman Square Tower Defense alias Footman S-TD est un projet créé le 25 février 2020 sur l'éditeur de scénario Warcraft 3. Il embarque 4 joueurs dans un mode chacun pour soi.Ce scénario a été conçu en version anglophone.
 
+[Changelog alpha distribution version 0.2](https://github.com/IazLur/footman-td)
+
+> Ajout : Banque nationale.\
+> Ajout : Maréchals des haches.\
+> Ajout : Tour d'Hadès.\
+> Fix : Mobs shop armure.
+
 [Changelog alpha distribution version 0.1.4](https://github.com/IazLur/footman-td)
 
 > Ajout : Evenement pour celui qui controle le milieu.\
