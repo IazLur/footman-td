@@ -13,6 +13,9 @@ Footman Square Tower Defense alias Footman S-TD est un projet créé le 25 févr
 > Ajout : Tourelle mur.\
 > [B] Ajout : Les murs provoquent les ennemis.\
 > [B] Bugfix : Spawn ogres quand joueur mort.\
+> [C] Bugfix : PAT unit not showing.\
+> [C] Balancement : Walls nerf.\
+> [C] Gameplay : Mur par défaut devant la base.\
 > Balancement : Nerf ogre.
 
 [Changelog alpha distribution version 0.2.2 du 29/01/21](https://github.com/IazLur/footman-td)
