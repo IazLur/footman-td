@@ -1,3 +1,4 @@
+|cff85ff50[Special]|r
 |cff808080[Basic]|r
 |cffff00ff[Improved]|r 
 |cff00ff00[Rare]|r
