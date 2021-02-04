@@ -6,3 +6,195 @@
 |cff00ffff[Legend]|r 
 |cffffff00[Divine]|r
 |cffff0000[Hero]|r
+
+|cff808080[Warrior]|r
+|cffffff00Life : |r|cffff80802,5k|r
+|cffffff00Attack : |r|cffff80800,15k|r
+|cffffff00Speed : |r|cffff80800,5ht/s|r
+|cffffff00Max targets : |r|cffff80801|r
+
+|cff808080[Honorable Warrior]|r
+|cffffff00Life : |r|cffff80807,0k|r
+|cffffff00Attack : |r|cffff80800,35k|r
+|cffffff00Speed : |r|cffff80800,5ht/s|r
+|cffffff00Max targets : |r|cffff80801|r
+
+|cff808080[Pocket Terror Spider]|r
+|cffffff00Life : |r|cffff808058,0k|r
+|cffffff00Attack : |r|cffff80800,7k|r
+|cffffff00Speed : |r|cffff80800,5ht/s|r
+|cffffff00Max targets : |r|cffff80801|r
+
+|cff808080[Death Athlete]|r
+|cffffff00Life : |r|cffff808014,0k|r
+|cffffff00Attack : |r|cffff80800,25k|r
+|cffffff00Speed : |r|cffff80800,5ht/s|r
+|cffffff00Max targets : |r|cffff80801|r
+
+|cff808080[Gigantic Terrifying Tree]|r
+|cffffff00Life : |r|cffff808028,0k|r
+|cffffff00Attack : |r|cffff80800,60k|r
+|cffffff00Speed : |r|cffff80800,5ht/s|r
+|cffffff00Max targets : |r|cffff80801|r
+
+|cff808080[Anti-walls Specialized Artillery]|r
+|cffffff00Life : |r|cffff808050,0k|r
+|cffffff00Attack : |r|cffff80801,00k|r
+|cffffff00Speed : |r|cffff80800,5ht/s|r
+|cffffff00Max targets : |r|cffff80801|r
+|cffffff00Ability : Oneshot walls lvl 1|r|cffff80801|r
+
+|cff808080[Axe Thrower]|r
+|cffffff00Life : |r|cffff80808,0k|r
+|cffffff00Attack : |r|cffff80800,80k|r
+|cffffff00Speed : |r|cffff80802,0ht/s|r
+|cffffff00Max targets : |r|cffff80801|r
+
+|cff808080[Tartar Assassin]|r
+|cffffff00Life : |r|cffff808090,0k|r
+|cffffff00Attack : |r|cffff80801,00k|r
+|cffffff00Speed : |r|cffff80800,5ht/s|r
+|cffffff00Max targets : |r|cffff80801|r
+
+|cff808080[Trees of Annihilation]|r
+|cffffff00Life : |r|cffff8080100,0k|r
+|cffffff00Attack : |r|cffff80801,20k|r
+|cffffff00Speed : |r|cffff80800,5ht/s|r
+|cffffff00Max targets : |r|cffff80801|r
+
+|cff808080[Professional Axe Thrower]|r
+|cffffff00Life : |r|cffff80801,6k|r
+|cffffff00Attack : |r|cffff80800,15k|r
+|cffffff00Speed : |r|cffff80802,0ht/s|r
+|cffffff00Max targets : |r|cffff80801|r
+|cffffff00Range : |r|cffff80801000|r
+
+|cff808080[Alpha X Intergalactic Tower]|r
+|cffffff00Life : |r|cffff80808,5k|r
+|cffffff00Attack : |r|cffff80800,9k|r
+|cffffff00Speed : |r|cffff80805,0ht/s|r
+|cffffff00Max targets : |r|cffff80801|r
+|cffffff00Range : |r|cffff80801000|r
+
+|cff808080[Tartar Tower]|r
+|cffffff00Life : |r|cffff808016,0k|r
+|cffffff00Attack : |r|cffff80802,2k|r
+|cffffff00Speed : |r|cffff80801,8ht/s|r
+|cffffff00Max targets : |r|cffff80801|r
+|cffffff00Range : |r|cffff80801000|r
+
+|cff808080[Templar Assassin]|r
+|cffffff00Life : |r|cffff80801,5k|r
+|cffffff00Attack : |r|cffff80805,0k|r
+|cffffff00Speed : |r|cffff80802,0ht/s|r
+|cffffff00Max targets : |r|cffff80801|r
+|cffffff00Range : |r|cffff8080700|r
+
+|cff808080[Alien Speculation Based Tower]|r
+|cffffff00Life : |r|cffff80800,75k|r
+|cffffff00Attack : |r|cffff80800,15k|r
+|cffffff00Speed : |r|cffff80801,0ht/s|r
+|cffffff00Max targets : |r|cffff80801|r
+|cffffff00Range : |r|cffff80801000|r
+
+|cff808080[Greec Philosophy Based Tower]|r
+|cffffff00Life : |r|cffff80800,9k|r
+|cffffff00Attack : |r|cffff80800,2k|r
+|cffffff00Speed : |r|cffff80801,0ht/s|r
+|cffffff00Max targets : |r|cffff80801|r
+|cffffff00Range : |r|cffff80801000|r
+
+|cff808080[Human Reality Based Tower]|r
+|cffffff00Life : |r|cffff80800,5k|r
+|cffffff00Attack : |r|cffff80800,05k|r
+|cffffff00Speed : |r|cffff80801,0ht/s|r
+|cffffff00Max targets : |r|cffff80801|r
+|cffffff00Range : |r|cffff8080850|r
+
+|cff808080[Protection Wall]|r
+|cffffff00Life : |r|cffff80803,0k|r
+|cffffff00Ability : |r|cffff8080Make 1 unit attack it|r
+
+|cff808080[Achille]|r
+|cffffff00Life : |r|cffff80805,0k|r
+|cffffff00Attack : |r|cffff80800,9k|r
+|cffffff00Speed : |r|cffff80802,2ht/s|r
+|cffffff00Max targets : |r|cffff80801|r
+|cffffff00Range : |r|cffff8080250|r
+
+|cff808080[Mine]|r
+|cffffff00Ability : |r|cffff8080Instant kill the unit that focus it|r
+
+|cff808080[Ax Thrower Amateur]|r
+|cffffff00Life : |r|cffff80800,65k|r
+|cffffff00Attack : |r|cffff80800,05k|r
+|cffffff00Speed : |r|cffff80801,2ht/s|r
+|cffffff00Max targets : |r|cffff80801|r
+|cffffff00Range : |r|cffff8080850|r
+
+|cff808080[Enclosure Wall]|r
+|cffffff00Life : |r|cffff80805,0k|r
+|cffffff00Ability : |r|cffff8080Make 3 units attack it|r
+
+|cff808080[Martian Magic Tower]|r
+|cffffff00Life : |r|cffff80800,5k|r
+|cffffff00Attack : |r|cffff80800,19k|r
+|cffffff00Speed : |r|cffff80801,2ht/s|r
+|cffffff00Max targets : |r|cffff80801|r
+|cffffff00Range : |r|cffff80801000|r
+
+|cff808080[Altar Of Sylvain Durif]|r
+|cffffff00Life : |r|cffff80801,8k|r
+|cffffff00Attack : |r|cffff80800,2k|r
+|cffffff00Speed : |r|cffff80802,0ht/s|r
+|cffffff00Max targets : |r|cffff80803|r
+|cffffff00Range : |r|cffff8080500|r
+
+|cff808080[Building Destruction Engineer Tower]|r
+|cffffff00Life : |r|cffff808017,5k|r
+|cffffff00Attack : |r|cffff80801,5k (only buildings)|r
+|cffffff00Speed : |r|cffff80800,25ht/s|r
+|cffffff00Max targets : |r|cffff80801|r
+|cffffff00Range : |r|cffff80801300|r
+
+|cff808080[General Of The Heavy Ax]|r
+|cffffff00Life : |r|cffff80803,0k|r
+|cffffff00Attack : |r|cffff80802,5k|r
+|cffffff00Speed : |r|cffff80800,9ht/s|r
+|cffffff00Max targets : |r|cffff80801|r
+|cffffff00Range : |r|cffff8080700|r
+
+|cff808080[Old Assassin Of Darkness]|r
+|cffffff00Life : |r|cffff80802,5k|r
+|cffffff00Attack : |r|cffff80801,5k|r
+|cffffff00Speed : |r|cffff80801,4ht/s|r
+|cffffff00Max targets : |r|cffff80801|r
+|cffffff00Range : |r|cffff8080700|r
+
+|cff808080[Putrefaction Tower]|r
+|cffffff00Life : |r|cffff80802,5k|r
+|cffffff00Attack : |r|cffff80800,45k|r
+|cffffff00Speed : |r|cffff80801,0ht/s|r
+|cffffff00Max targets : |r|cffff80801|r
+|cffffff00Range : |r|cffff8080700|r
+
+|cff808080[Titan X Laser Tower]|r
+|cffffff00Life : |r|cffff80801,4k|r
+|cffffff00Attack : |r|cffff80800,4k|r
+|cffffff00Speed : |r|cffff80803,2ht/s|r
+|cffffff00Max targets : |r|cffff80801|r
+|cffffff00Range : |r|cffff80801000|r
+
+|cff808080[Hades Tower]|r
+|cffffff00Life : |r|cffff808050,0k|r
+|cffffff00Attack : |r|cffff808025,0k|r
+|cffffff00Speed : |r|cffff80800,33ht/s|r
+|cffffff00Max targets : |r|cffff80801|r
+|cffffff00Range : |r|cffff80801500|r
+
+|cff808080[Scandinavian Siege Engine]|r
+|cffffff00Life : |r|cffff808050,0k|r
+|cffffff00Attack : |r|cffff808010,5k (only buildings)|r
+|cffffff00Speed : |r|cffff80801,0ht/s|r
+|cffffff00Max targets : |r|cffff80801|r
+|cffffff00Range : |r|cffff80801600|r
